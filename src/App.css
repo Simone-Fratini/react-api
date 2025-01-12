@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: linear-gradient(135deg, #000000, #150050, #3F0071, #610094);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        
+}
